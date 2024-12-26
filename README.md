@@ -1,28 +1,8 @@
----
-description: Hello! This is Team STNET Radio.
-cover: .gitbook/assets/banner.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # ❓ STNET Radio Help Center
 
-{% hint style="danger" %}
+
 Important Announcement: Website and Service Transition for STNET Radio. Effective from November 26, 2024. Read more [here](announce/nov2624.md).
-{% endhint %}
+
 
 Welcome to the STNET Radio Help Center! We're here to assist you with any questions or issues you may have.
 
